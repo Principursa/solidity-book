@@ -1,6 +1,6 @@
-# The Rust Programming Language
+# Solidity-Book
 
-[The Rust Programming Language](title-page.md)
+[Solidity-Book](title-page.md)
 [Foreword](foreword.md)
 [Introduction](ch00-00-introduction.md)
 
